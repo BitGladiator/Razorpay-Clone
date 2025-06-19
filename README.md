@@ -1,5 +1,3 @@
-Here's a clean, professional, and visually appealing `README.md` you can use for your **Razorpay-Clone** project, tailored to what’s visible in your GitHub repo structure:
-
 ---
 
 ```md
