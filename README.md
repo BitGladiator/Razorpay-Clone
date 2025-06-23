@@ -70,7 +70,7 @@ npm run build
 
 ## 🌐 Live Demo
 
-> Coming soon – Deployed site link (e.g., Vercel/Netlify)
+(https://my-razorpay-clone.vercel.app/)
 
 ---
 
