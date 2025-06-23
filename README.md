@@ -33,18 +33,12 @@ A responsive and modern Razorpay landing page clone built using **HTML**, **CSS*
 
 ---
 
-## 📸 Preview
-
-> Coming soon – Screenshots or live demo link
-
----
-
 ## 🚧 Setup Instructions
 
 1. **Clone the Repository**
 
 ```bash
-git clone https://github.com/your-username/razorpay-clone.git
+git clone https://github.com/BitGladiator/razorpay-clone.git
 cd razorpay-clone
 ````
 
@@ -70,7 +64,7 @@ npm run build
 
 ## 🌐 Live Demo
 
-(https://my-razorpay-clone.vercel.app/)
+https://my-razorpay-clone.vercel.app/
 
 ---
 
