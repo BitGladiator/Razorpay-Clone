@@ -1,10 +1,10 @@
-# 🚀 Razorpay-Clone
+#  Razorpay-Clone
 
 A responsive and modern Razorpay landing page clone built using **HTML**, **CSS**, **TailwindCSS**, and **Vite**. This project replicates the visual design of Razorpay's official site, focusing on layout, interactivity, and responsiveness.
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 ```
 
@@ -23,7 +23,7 @@ A responsive and modern Razorpay landing page clone built using **HTML**, **CSS*
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 - **HTML5**
 - **TailwindCSS**
@@ -33,7 +33,7 @@ A responsive and modern Razorpay landing page clone built using **HTML**, **CSS*
 
 ---
 
-## 🚧 Setup Instructions
+##  Setup Instructions
 
 1. **Clone the Repository**
 
@@ -62,13 +62,13 @@ npm run build
 
 ---
 
-## 🌐 Live Demo
+##  Live Demo
 
 https://my-razorpay-clone.vercel.app/
 
 ---
 
-## 💡 Features
+##  Features
 
 * Fully responsive layout
 * Razorpay-style hero section and animations
@@ -77,19 +77,19 @@ https://my-razorpay-clone.vercel.app/
 
 ---
 
-## 🙌 Contributing
+##  Contributing
 
 Pull requests are welcome! Feel free to fork this repo and suggest improvements.
 
 ---
 
-## 📄 License
+##  License
 
 This project is for educational and demo purposes only. It is not affiliated with or endorsed by Razorpay.
 
 ---
 
-## 📬 Contact
+##  Contact
 
 For questions or suggestions:
 
